@@ -1,0 +1,488 @@
+{
+ "S": {
+  "fr": {
+   "t": "Encyclopédie historique d’Haïti",
+   "s": "Huit périodes, huit thèmes. Chaque point est une histoire à explorer.",
+   "d": "Version de travail privée : les fiches sont des brouillons, pas encore vérifiés sur sources.",
+   "l": [
+    "Fiche rédigée",
+    "Fiche liée",
+    "Fiche prévue",
+    "À documenter"
+   ],
+   "back": "← Retour à la carte",
+   "draft": "Brouillon",
+   "hint": "Touchez un point pour une histoire, une icône pour isoler un thème, un drapeau pour un détail qu’on oublie souvent.",
+   "det": "Détail à connaître",
+   "note2": "",
+   "empty": "Case à documenter",
+   "hist": "L’histoire pas à pas",
+   "org": "D’où vient cette information",
+   "next": "Étape suivante",
+   "close": "Fermer",
+   "go": "Explorer l’histoire",
+   "mt": "Degré de certitude de la fiche",
+   "unk": "Ce que l’on ne sait pas",
+   "src": "Sources",
+   "full": "Lire la fiche complète",
+   "pl": "Fiche prévue, pas encore rédigée.",
+   "note": "",
+   "f": "Traduction créole à relire par un locuteur natif. Les statuts disent le degré de certitude de chaque affirmation.",
+   "st": [
+    "Établi",
+    "Interprété",
+    "Contesté",
+    "Peu documenté",
+    "À sourcer"
+   ]
+  },
+  "kr": {
+   "t": "Ansiklopedi istorik Ayiti",
+   "s": "Uit peryòd, uit tèm. Chak pwen se yon istwa pou eksplore.",
+   "d": "Vèsyon travay prive: fich yo se premye vèsyon, yo poko verifye sou sous.",
+   "l": [
+    "Fich ekri",
+    "Fich ki gen rapò",
+    "Fich ki prevwa",
+    "Pou dokimante"
+   ],
+   "back": "← Tounen nan kat la",
+   "draft": "Premye vèsyon",
+   "hint": "Peze sou yon pwen pou yon istwa, sou yon ikòn pou chwazi yon tèm, sou yon drapo pou yon detay moun bliye souvan.",
+   "det": "Detay ki bon pou konnen",
+   "note2": "Detay sa a an fransè pou kounye a.",
+   "empty": "Kare sa a poko dokimante",
+   "hist": "Istwa a etap pa etap",
+   "org": "Kote enfòmasyon sa a soti",
+   "next": "Etap kap vini",
+   "close": "Fèmen",
+   "go": "Eksplore istwa a",
+   "mt": "Nivo sètitid fich la",
+   "unk": "Sa nou pa konnen",
+   "src": "Sous",
+   "full": "Li fich konplè a (fransè)",
+   "pl": "Fich sa a prevwa, poko ekri.",
+   "note": "Etap yo ak rès fich la an fransè pou kounye a.",
+   "f": "Yon moun ki pale kreyòl natifnatal dwe relire tradiksyon an. Estati yo montre kantite sètitid pou chak afimasyon.",
+   "st": [
+    "Etabli",
+    "Entèprete",
+    "Diskite",
+    "Pa dokimante ase",
+    "Pou verifye"
+   ]
+  }
+ },
+ "P": [
+  {
+   "fr": "Peuples autochtones",
+   "kr": "Pèp endijèn",
+   "d": "avant 1492"
+  },
+  {
+   "fr": "Colonisation espagnole",
+   "kr": "Kolonizasyon panyòl",
+   "d": "1492 à fin XVIIe"
+  },
+  {
+   "fr": "Saint-Domingue française",
+   "kr": "Sendomeng franse",
+   "d": "fin XVIIe à 1789"
+  },
+  {
+   "fr": "Révolution haïtienne",
+   "kr": "Revolisyon ayisyèn",
+   "d": "1791 à 1804"
+  },
+  {
+   "fr": "État indépendant",
+   "kr": "Leta endepandan",
+   "d": "1804 à 1915"
+  },
+  {
+   "fr": "Occupation américaine",
+   "kr": "Okipasyon ameriken",
+   "d": "1915 à 1957"
+  },
+  {
+   "fr": "Ère Duvalier",
+   "kr": "Epòk Divalye",
+   "d": "1957 à 1986"
+  },
+  {
+   "fr": "Depuis 1986",
+   "kr": "Depi 1986",
+   "d": "à aujourd’hui"
+  }
+ ],
+ "T": [
+  {
+   "full": "Pouvoir et institutions"
+  },
+  {
+   "full": "Guerres et sécurité"
+  },
+  {
+   "full": "Populations et vie quotidienne"
+  },
+  {
+   "full": "Économie et travail"
+  },
+  {
+   "full": "Culture, langue, croyances"
+  },
+  {
+   "full": "Territoires, environnement, catastrophes"
+  },
+  {
+   "full": "Relations internationales"
+  },
+  {
+   "full": "Migrations et diaspora"
+  }
+ ],
+ "E": [
+  "⚖️",
+  "🛡️",
+  "🏘️",
+  "💰",
+  "🎭",
+  "🗺️",
+  "🌐",
+  "✈️"
+ ],
+ "LK": [
+  [
+   "vq",
+   "bc"
+  ],
+  [
+   "bc",
+   "in"
+  ]
+ ],
+ "M": [
+  {
+   "h": 170,
+   "a": "#06292b",
+   "b": "#17594f",
+   "n": "#2fbf9b",
+   "p": {
+    "c": [
+     170,
+     255,
+     225
+    ],
+    "n": 38,
+    "vy": -0.15,
+    "vx": 0,
+    "s": [
+     1,
+     3
+    ],
+    "f": 0.3,
+    "sw": 20
+   },
+   "em": {
+    "fr": "sérénité",
+    "kr": "kè poze"
+   }
+  },
+  {
+   "h": 35,
+   "a": "#2a1a0b",
+   "b": "#5b3a12",
+   "n": "#d99a3c",
+   "p": {
+    "c": [
+     235,
+     185,
+     105
+    ],
+    "n": 34,
+    "vy": 0.08,
+    "vx": 0.45,
+    "s": [
+     1,
+     2.5
+    ],
+    "f": 0,
+    "sw": 6
+   },
+   "em": {
+    "fr": "choc et perte",
+    "kr": "chòk ak pèt"
+   }
+  },
+  {
+   "h": 28,
+   "a": "#1c1713",
+   "b": "#3b2e22",
+   "n": "#b8926a",
+   "p": {
+    "c": [
+     205,
+     175,
+     135
+    ],
+    "n": 48,
+    "vy": 0.05,
+    "vx": 0.15,
+    "s": [
+     1.5,
+     4
+    ],
+    "f": 0,
+    "sw": 6
+   },
+   "em": {
+    "fr": "poids et oppression",
+    "kr": "pwa ak opresyon"
+   }
+  },
+  {
+   "h": 8,
+   "a": "#080304",
+   "b": "#4d0d10",
+   "n": "#ff5a2a",
+   "p": {
+    "c": [
+     255,
+     120,
+     40
+    ],
+    "n": 58,
+    "vy": -0.9,
+    "vx": 0.2,
+    "s": [
+     1,
+     3
+    ],
+    "f": 1,
+    "sw": 14
+   },
+   "em": {
+    "fr": "feu et révolte",
+    "kr": "dife ak revòlt"
+   }
+  },
+  {
+   "h": 220,
+   "a": "#0a1f4d",
+   "b": "#5a1020",
+   "n": "#f5b942",
+   "p": {
+    "c": [
+     255,
+     215,
+     120
+    ],
+    "n": 30,
+    "vy": -0.2,
+    "vx": 0,
+    "s": [
+     1,
+     3
+    ],
+    "f": 0.2,
+    "sw": 25
+   },
+   "em": {
+    "fr": "fierté et fragilité",
+    "kr": "fyète ak frajilite"
+   }
+  },
+  {
+   "h": 215,
+   "a": "#171c23",
+   "b": "#3a4452",
+   "n": "#8fa3bf",
+   "p": {
+    "c": [
+     190,
+     200,
+     215
+    ],
+    "n": 40,
+    "vy": 0.5,
+    "vx": -0.2,
+    "s": [
+     1,
+     2
+    ],
+    "f": 0,
+    "sw": 5
+   },
+   "em": {
+    "fr": "humiliation et résistance",
+    "kr": "imilyasyon ak rezistans"
+   }
+  },
+  {
+   "h": 350,
+   "a": "#040404",
+   "b": "#3d0509",
+   "n": "#d4202c",
+   "p": {
+    "c": [
+     200,
+     40,
+     45
+    ],
+    "n": 28,
+    "vy": 0.25,
+    "vx": 0,
+    "s": [
+     1,
+     3
+    ],
+    "f": 1,
+    "sw": 8
+   },
+   "em": {
+    "fr": "peur",
+    "kr": "laperèz"
+   }
+  },
+  {
+   "h": 25,
+   "a": "#2a1450",
+   "b": "#cf662c",
+   "n": "#ff9a5a",
+   "p": {
+    "c": [
+     255,
+     205,
+     145
+    ],
+    "n": 44,
+    "vy": -0.3,
+    "vx": 0,
+    "s": [
+     1,
+     3
+    ],
+    "f": 0.3,
+    "sw": 30
+   },
+   "em": {
+    "fr": "espoir et incertitude",
+    "kr": "espwa ak ensètitid"
+   }
+  }
+ ],
+ "FE": {
+  "bc": {
+   "fr": "tension et serment",
+   "kr": "tansyon ak sèman"
+  },
+  "vq": {
+   "fr": "poids et silence",
+   "kr": "pwa ak silans"
+  },
+  "in": {
+   "fr": "pression et dette",
+   "kr": "presyon ak dèt"
+  }
+ },
+ "D": [
+  {
+   "ic": "🏔️",
+   "t": "Le nom d’Ayiti est taïno",
+   "x": "Le nom « Ayiti » vient des Taïnos et se traduit souvent par « terre de hautes montagnes ». La traduction exacte est à sourcer.",
+   "s": [
+    1,
+    4
+   ]
+  },
+  {
+   "ic": "⛵",
+   "t": "Une île, plusieurs noms",
+   "x": "Les Espagnols nomment l’île Hispaniola. Des noms taïnos, comme Quisqueya, circulent aussi. À sourcer.",
+   "s": [
+    4
+   ]
+  },
+  {
+   "fl": [
+    "#0055a4",
+    "#ffffff",
+    "#ef4135"
+   ],
+   "v": 1,
+   "t": "Un drapeau qui n’est pas le sien",
+   "x": "Jusqu’en 1803, c’est le drapeau français qui flotte sur la colonie, pas un drapeau local. Les détails d’époque sont à sourcer.",
+   "s": [
+    4
+   ]
+  },
+  {
+   "fl": [
+    "#00209f",
+    "#d21034"
+   ],
+   "t": "18 mai 1803 : le blanc disparaît",
+   "x": "Au congrès de l’Arcahaie, la bande blanche du drapeau français est retirée : il reste le bleu et le rouge. La tradition dit que Catherine Flon a cousu ce drapeau. Certains auteurs contestent ce récit et situent le bicolore dès février 1803.",
+   "s": [
+    1,
+    2
+   ]
+  },
+  {
+   "fl": [
+    "#111111",
+    "#d21034",
+    "#00209f",
+    "#d21034"
+   ],
+   "t": "Noir et rouge, puis bleu et rouge",
+   "x": "Une constitution de mai 1805 passe le drapeau au noir et rouge (certains textes disent 1804). Après la mort de Dessalines, le Nord de Christophe garde le noir et rouge, tandis que le Sud de Pétion revient au bleu et rouge, en bandes horizontales. Le bleu et rouge s’impose après la fin du royaume du Nord (1818 à 1820 selon les sources), avec une interruption de 1849 à 1859 à vérifier.",
+   "s": [
+    1,
+    2,
+    4
+   ]
+  },
+  {
+   "fl": [
+    "#00209f",
+    "#d21034"
+   ],
+   "t": "Le bleu et rouge reste",
+   "x": "Selon une liste des drapeaux haïtiens consultée, le bleu et rouge est utilisé de 1859 à 1964, donc pendant l’occupation américaine. À vérifier sur une source primaire.",
+   "s": [
+    4
+   ]
+  },
+  {
+   "fl": [
+    "#111111",
+    "#d21034"
+   ],
+   "v": 1,
+   "t": "1964 : le noir et rouge revient",
+   "x": "François Duvalier rétablit le noir et rouge de Dessalines : annoncé le 25 mai 1964, officiel le 21 juin 1964 selon une source consultée. Il présente ce choix comme un retour aux origines. Les bandes sont verticales (à sourcer).",
+   "s": [
+    1,
+    4
+   ]
+  },
+  {
+   "fl": [
+    "#00209f",
+    "#d21034"
+   ],
+   "t": "Février 1986 : retour du bleu et rouge",
+   "x": "Après le départ de Jean-Claude Duvalier, le bleu et rouge est rétabli fin février 1986. La date exacte varie selon les sources (17, 25 ou 26 février). La Constitution du 29 mars 1987 le confirme.",
+   "s": [
+    0,
+    4
+   ]
+  }
+ ],
+ "fiches": [
+  "bois-caiman",
+  "vie-plantation",
+  "indemnite-1825"
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "id": "in",
+ "title": {
+  "fr": "Indemnité de 1825 et « double dette »",
+  "kr": "Endanmite 1825 la ak « doub dèt la »"
+ },
+ "cell": [
+  4,
+  6
+ ],
+ "rel": [
+  [
+   4,
+   3
+  ],
+  [
+   4,
+   0
+  ]
+ ],
+ "bref": {
+  "fr": "En 1825, le roi Charles X reconnaît l’indépendance d’Haïti, mais demande 150 millions de francs aux Haïtiens pour indemniser les anciens colons. Pour payer, Haïti emprunte auprès de banques françaises : c’est la « double dette ». Le montant est ramené à 90 millions en 1838, mais les paiements durent des décennies. Les historiens discutent du poids exact de cette dette et du manque à gagner.",
+  "kr": "An 1825, wa Chal X rekonèt endepandans Ayiti, men li mande Ayisyen yo 150 milyon fran pou peye ansyen kolon yo. Ayiti te oblije fè prè nan men bank franse yo pou peye : se sa yo rele « doub dèt la ». Montan an desann a 90 milyon an 1838, men peman yo kontinye pandan plizyè dizèn ane. Istoryen yo toujou ap diskite sou pwa dèt la ak sou pèt la."
+ },
+ "steps": [
+  [
+   "17 avril 1825",
+   "Charles X signe l’ordonnance : reconnaissance de l’indépendance contre 150 millions de francs en cinq versements, à verser à une caisse française.",
+   [
+    0,
+    4
+   ],
+   "Texte de l’ordonnance consulté en ligne ; édition à vérifier."
+  ],
+  [
+   "Juillet 1825",
+   "Une escadre française accompagne l’envoyé du roi. Boyer reçoit l’ordonnance et l’accepte.",
+   [
+    0,
+    4
+   ],
+   "Nombre de navires et de canons variable selon les synthèses. Le récit de Boyer cité par Madiou est à retrouver."
+  ],
+  [
+   "Pourquoi Boyer accepte",
+   "Menace d’invasion ou pari politique pour consolider l’État ? Les lectures divergent.",
+   [
+    2
+   ],
+   "Les historiens ne pèsent pas les motifs de la même façon. À lire dans les déclarations de Boyer."
+  ],
+  [
+   "Fin 1825",
+   "Haïti emprunte 30 millions auprès de banques françaises pour la première échéance : c’est la « double dette ».",
+   [
+    1,
+    4
+   ],
+   "Le montant net reçu est à vérifier : une synthèse parle de 24 millions."
+  ],
+  [
+   "12 février 1838",
+   "Un traité ramène le total à 90 millions de francs, étalés sur trente ans.",
+   [
+    0,
+    4
+   ],
+   "Chiffres concordants dans les synthèses consultées ; texte du traité à lire."
+  ],
+  [
+   "De 1838 aux années 1940",
+   "Les paiements se poursuivent. Selon les sources, l’indemnité est soldée entre 1878 et 1888, et les emprunts courent jusqu’en 1922 ou 1947.",
+   [
+    2,
+    4
+   ],
+   "Les dates diffèrent peut-être parce que les sources comptent des choses différentes : indemnité, emprunts, intérêts."
+  ],
+  [
+   "Le poids sur l’État",
+   "Jusqu’en 1850, entre 40 et 50 % des revenus de l’État vont au service de la dette ; plus de 65 % en 1914.",
+   [
+    1,
+    4
+   ],
+   "Estimations d’historiens, à confronter aux budgets d’époque."
+  ],
+  [
+   "2003 et 2025",
+   "Aristide réclame la restitution. En avril 2025, la France annonce une commission d’historiens franco-haïtienne.",
+   [
+    0,
+    4
+   ],
+   "Faits politiques. Le manque à gagner est estimé de 21 à 115 milliards de dollars selon les calculs : méthodes discutées."
+  ]
+ ],
+ "unk": [
+  "Le contenu exact des négociations de 1825",
+  "La répartition de l’indemnité entre les anciens colons",
+  "Les effets sur les populations rurales et urbaines"
+ ],
+ "src": "Textes officiels (ordonnance, traité), notes mémorielles, articles d’historiens et textes parlementaires lus en ligne. Historiens haïtiens à consulter directement : Madiou, Gaillard-Pourchet, Turnier. Plusieurs sources sont à la fois précises et engagées. Aucune archive lue."
+}

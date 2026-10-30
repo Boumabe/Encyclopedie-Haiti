@@ -1,0 +1,88 @@
+{
+ "id": "bc",
+ "title": {
+  "fr": "Cérémonie du Bois-Caïman (août 1791)",
+  "kr": "Seremoni Bwa Kayiman (out 1791)"
+ },
+ "cell": [
+  3,
+  4
+ ],
+ "rel": [
+  [
+   3,
+   0
+  ],
+  [
+   3,
+   1
+  ],
+  [
+   3,
+   2
+  ]
+ ],
+ "bref": {
+  "fr": "Fin août 1791, des esclaves de la plaine du Nord se soulèvent. Selon la mémoire haïtienne, des conjurés se seraient réunis de nuit au Bois-Caïman pour une cérémonie et un serment. Des historiens pensent qu’une réunion a bien eu lieu ; d’autres y voient surtout un récit national construit après coup. Date, lieu et paroles restent discutés.",
+  "kr": "Nan fen out 1791, esklav nan plèn Nò a leve kanpe. Dapre memwa ayisyèn, konjire yo te reyini lannwit nan Bwa Kayiman pou yon seremoni ak yon sèman. Gen istoryen ki kwè yon reyinyon te fèt vre ; gen lòt ki wè sa sitou tankou yon istwa nasyonal yo konstwi apre. Dat la, kote a ak pawòl yo toujou fè deba."
+ },
+ "steps": [
+  [
+   "Mi-août 1791",
+   "Des conjurés se réunissent dans la plaine du Nord pour préparer un soulèvement.",
+   [
+    1,
+    4
+   ],
+   "Admis par plusieurs historiens ; détails à sourcer."
+  ],
+  [
+   "14 août, la date de la tradition",
+   "La cérémonie est traditionnellement placée cette nuit-là.",
+   [
+    2
+   ],
+   "Geggus distingue une réunion politique vers le 14 et une cérémonie vers le 21 août. Un événement ou deux ?"
+  ],
+  [
+   "Une nuit en forêt",
+   "Rite nocturne, serment collectif, sacrifice d’un porc selon le plus ancien récit.",
+   [
+    1
+   ],
+   "Récit de Dalmas (publié en 1814), qui semble dériver d’interrogatoires de conjurés : une seule racine, même si plusieurs textes le reprennent."
+  ],
+  [
+   "17 août 1791",
+   "Après un incendie à Limbé, des prisonniers auraient cité un « Bois-Caïman », avant le récit de Dalmas.",
+   [
+    2,
+    4
+   ],
+   "Thèse de Beauvoir-Dominique et Lubin. Documents d’archive à vérifier. Hoffmann y voit, lui, un mythe national construit ensuite."
+  ],
+  [
+   "Nuit du 22 août",
+   "Début des incendies de plantations dans la plaine du Nord.",
+   [
+    0,
+    4
+   ],
+   "Largement admis dans la littérature ; date précise à sourcer."
+  ],
+  [
+   "Novembre 1791",
+   "Mort de Boukman.",
+   [
+    4
+   ],
+   "Rapporté par la littérature secondaire ; à sourcer."
+  ]
+ ],
+ "unk": [
+  "Texte authentique des paroles",
+  "Nombre et identité des participants",
+  "Lien causal exact avec le début de l’insurrection"
+ ],
+ "src": "Rédigé d’après des résumés secondaires : aucune archive lue. Plusieurs textes issus d’une même racine comptent pour une seule source."
+}

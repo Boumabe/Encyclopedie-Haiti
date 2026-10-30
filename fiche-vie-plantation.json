@@ -1,0 +1,87 @@
+{
+ "id": "vq",
+ "title": {
+  "fr": "Vie quotidienne sur une habitation sucrière",
+  "kr": "Lavi chak jou sou yon abitasyon sik"
+ },
+ "cell": [
+  2,
+  2
+ ],
+ "rel": [
+  [
+   2,
+   3
+  ],
+  [
+   2,
+   4
+  ],
+  [
+   2,
+   0
+  ]
+ ],
+ "bref": {
+  "fr": "À Saint-Domingue, la plupart des personnes réduites en esclavage travaillaient sur des habitations, d’une dizaine à plusieurs centaines de personnes. Leur vie tournait autour du travail, des cases et de petits jardins de vivres. Les sources viennent surtout des propriétaires et de l’administration : les voix des esclaves sont rares.",
+  "kr": "Nan Sendomeng, pi fò moun yo te kenbe nan esklavaj te travay sou abitasyon, soti nan yon dizèn jiska plizyè santèn moun. Lavi yo te vire sitou bò travay, kay yo ak ti jaden manje. Sous yo soti sitou nan men mèt yo ak administrasyon an : vwa esklav yo ra."
+ },
+ "steps": [
+  [
+   "Travailler",
+   "Un peu plus de quatre personnes sur dix font le travail agricole aux sucreries Galliffet (1774-1775).",
+   [
+    0,
+    4
+   ],
+   "Étude de démographie historique. Valable pour ces domaines seulement, pas pour toute la colonie."
+  ],
+  [
+   "Manger",
+   "La cassave et les jardins à vivres forment l’essentiel de l’alimentation.",
+   [
+    1
+   ],
+   "Lecture de l’historien Gabriel Debien ; à sourcer."
+  ],
+  [
+   "Être malade",
+   "La sous-alimentation chronique favorise les maladies.",
+   [
+    1
+   ],
+   "Position de Debien, à confronter à d’autres historiens."
+  ],
+  [
+   "Fuir",
+   "Les fuites ont lieu presque toujours la nuit.",
+   [
+    1
+   ],
+   "Selon Jean Fouchard, historien haïtien. À sourcer sur ses archives."
+  ],
+  [
+   "Mourir",
+   "Forte mortalité : la colonie dépend de nouvelles arrivées par la traite.",
+   [
+    1,
+    4
+   ],
+   "Thèse de Fouchard ; chiffres à vérifier."
+  ],
+  [
+   "Appliquer la loi",
+   "Le Code noir était-il appliqué ? La question reste ouverte.",
+   [
+    2
+   ],
+   "À documenter domaine par domaine. Le texte dit ce qui devait être fait, pas ce qui l’était."
+  ]
+ ],
+ "unk": [
+  "La parole directe des esclaves",
+  "Le détail d’une journée et d’une année type",
+  "L’application réelle du Code noir"
+ ],
+ "src": "Archives de domaines, textes officiels et descriptions de colons : tout est écrit du côté des propriétaires. Historien haïtien consulté en priorité : Jean Fouchard. Aucune archive lue."
+}
